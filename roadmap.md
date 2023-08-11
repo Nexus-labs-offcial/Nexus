@@ -63,4 +63,4 @@ Phase 5 represents the complete evolution in all domains to improve Nexus as wel
 
 ### demostration visuel de la ROADMAP
 
-![l'image n'arrive pas a s'afficher](/home/tom/Images/Nexus_ROADMAP_visuel_carrer-Page-2.drawio.png)
+![l'image n'arrive pas a s'afficher](https://github.com/Nexus-labs-offcial/Nexus/blob/master/image/Nexus_ROADMAP_visuel.png)

@@ -48,4 +48,4 @@ Multimodal Fusion: Through a methodical approach, the textual content and the va
 ### neruonal architecture
 
 This present example depicts a prospective illustration of the architectural configuration, with a visual meaning. It should be emphasized that this architecture is in an unfinished phase, and that it remains subject to further adjustments. The proposed scheme mainly aims to instill a preliminary understanding as to the potential structure of the neural network.
-![Alt text](/home/tom/Images/architechture_Nexus_modulaire(1).drawio.png)
+![Alt text](https://github.com/Nexus-labs-offcial/Nexus/blob/master/image/architechture_Nexus_modulaire.png)

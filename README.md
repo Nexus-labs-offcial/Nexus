@@ -16,13 +16,13 @@ The AGI Nexus Project is a bold initiative to develop a powerful, ethical and un
 
 We invite researchers, developers and AI enthusiasts to contribute to the AGI Nexus Project:
 
-1. See our [Roadmap](https://github.com/votre-utilisateur/Nexus-AGI/blob/main/roadmap.md) to see the project milestones.
-2. Visit [CONTRIBUTING.md](https://github.com/votre-utilisateur/Nexus-AGI/blob/main/CONTRIBUTING.md) for information on how to contribute
-3. Join our community on [Discussions](https://github.com/votre-utilisateur/Nexus-AGI/discussions) or [discord]()for ideas, questions and discussion.
+1. See our [Roadmap](https://github.com/Nexus-labs-offcial/Nexus/blob/master/roadmap.md) to see the project milestones.
+2. Visit [CONTRIBUTING.md](https://github.com/Nexus-labs-offcial/Nexus/blob/master/CONTRIBUTING.md) for information on how to contribute
+3. Join our community [discord](https://discord.gg/x7DWczUc)for ideas, questions and discussion.
 
 ## Licence
 
-The AGI Nexus Project is licensed [GPL-2.0](https://github.com/votre-utilisateur/Nexus-AGI/blob/main/LICENSE).
+The AGI Nexus Project is licensed [GPL-2.0](https://github.com/Nexus-labs-offcial/Nexus/blob/master/LICENSE.md).
 
 **Note 1:**  This project is under active development. We welcome your contributions to help shape the future of open and ethical AI.
 
