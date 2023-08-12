@@ -11,7 +11,7 @@ The AGI Nexus Project is a bold initiative to develop a powerful, ethical and un
 
 Explore our roadmap for the AGI Nexus Project, which defines the major milestones on our journey towards creating cutting-edge open-source General Artificial Intelligence.
 
-# Phase 1: The foundations of Nexus
+# Phase 1: foundations of Nexus
 
 In this first phase, we will lay the solid foundations for Nexus through a number of key stages that will run in parallel.
 
@@ -19,7 +19,7 @@ In this first phase, we will lay the solid foundations for Nexus through a numbe
 
 The Nexus Forge will be the cornerstone of our decentralised AI training cloud platform. This innovative platform will enable AI models to be trained in a decentralised way, using the computing power of thousands of computers spread across the world. It will serve as the starting point for our adventure towards a powerful and open-source AGI. In this case, many avenues can be used to use peer-to-peer networks already in use, to link them together or to create new ones.
 
-## Étape 1.2 : Développement du Réseau de Neurones de Nexus
+## Étape 1.2 : Nexus Neural Network Development
 
 Part 1.2 will focus on the creation and development of the Nexus modular neural network. [as explained methodologically in this document which explains the basic architecture of Nexus](architechture_Nexus.md)
 
@@ -41,7 +41,7 @@ creation of an ergonomic and pleasant interface for a user a software which will
 
 creation of an AI evaluation service using and combining old tests from old evaluation datasets and new evaluation methods to get more in-depth testing and more relevant results on AI intelligence and to be able to filter the different capabilities and performance domains.
 
-### phase 3: evaluation and launch of version 1 of Nexus
+### phase 3: evaluation and launch of version 1
 
 ## step 3.1: evluation of Nexus 
 
