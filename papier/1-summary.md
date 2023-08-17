@@ -16,4 +16,4 @@ this summary is used to find the papers published about Nexus
 ## papier 3 
 **Title:** "white paper"
 
-**Link:**  [white paper](https://github.com/Nexus-labs-offcial/Nexus/blob/master/papier/white_paper)
+**Link:**  [white paper](https://github.com/Nexus-labs-offcial/Nexus/blob/master/papier/white_paper.pdf)
