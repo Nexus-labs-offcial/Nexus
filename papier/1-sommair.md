@@ -12,3 +12,7 @@ this summary is used to find the papers published about Nexus
 **Title:** "Building the Nexus Dataset: A Comprehensive Overview"
 
 **Link:** ["Building the Nexus Dataset: A Comprehensive Overview"](https://github.com/Nexus-labs-offcial/Nexus/blob/master/papier/dataset.md)
+
+## papier 3 
+**Title:** "white paper"
+**Link:**  [white paper](https://github.com/Nexus-labs-offcial/Nexus/blob/master/papier/white_paper)
