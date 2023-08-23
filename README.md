@@ -18,7 +18,7 @@ We invite researchers, developers and AI enthusiasts to contribute to the AGI Ne
 
 1. See our [Roadmap](https://github.com/Nexus-labs-offcial/Nexus/blob/master/roadmap.md) to see the project milestones.
 2. Visit [CONTRIBUTING.md](https://github.com/Nexus-labs-offcial/Nexus/blob/master/CONTRIBUTING.md) for information on how to contribute
-3. Join our community [discord](https://discord.gg/x7DWczUc)for ideas, questions and discussion.
+3. Join our community [discord](https://discord.gg/ctNq6YvmjM)for ideas, questions and discussion.
 
 ## Licence
 
