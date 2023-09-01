@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Project Nexus! We are thrilled to
 
 ## How to Contribute
 
-1. Join our Discord server: [Link to Discord Server](https://discord.gg/x7DWczUc).
+1. Join our Discord server: [Link to Discord Server](https://discord.gg/ctNq6YvmjM).
 2. Head to the "Mission" channel to find the list of features to develop.
 
 ## Features to Develop
